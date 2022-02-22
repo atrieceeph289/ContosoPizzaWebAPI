@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alext\\source\\ContosoPizzaWebAPI\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\alext\\source\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\alext\\source\\ContosoPizzaWebAPI\\ContosoPizza.csproj",
+      "projectPath": "C:\\Users\\alext\\source\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\alext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alext\\source\\ContosoPizzaWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\alext\\source\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alext\\AppData\\Roaming\\NuGet\\NuGet.Config",
